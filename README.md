@@ -1,188 +1,297 @@
-<div align="center">
+Act as a world-class UI/UX designer, creative frontend developer, SVG animator, and GitHub profile customization expert.
 
-<img width="100%" src="banner.svg" alt="Megharaj Panchmaal " />
+I already have a complete GitHub profile README.md. I will provide my existing code below. Your task is to transform it into an exceptionally creative, visually stunning, animated, and professional developer profile that looks different from ordinary GitHub profiles.
 
-<a href="https://github.com/megharajpanchmaal19-glitch">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1400&color=22D3EE&center=true&vCenter=true&width=640&height=30&lines=MCA+student+%C2%B7+Aspiring+software+developer;Python+%C2%B7+Django+%C2%B7+Flask+%C2%B7+React+%C2%B7+MySQL;Turning+logic+into+working+systems" alt="Typing animation" />
-</a>
+GitHub username: megharajpanchmaal19-glitch
 
-<br />
+Profile: https://github.com/megharajpanchmaal19-glitch
 
-<a href="https://www.linkedin.com/in/megharaj-panchmaal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" /></a>
-<a href="mailto:megharajpanchmaal19@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=a78bfa" alt="Email" /></a>
-<a href="https://github.com/megharajpanchmaal19-glitch?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee" alt="Repositories" /></a>
+Name: Megharaj Panchmaal
 
-</div>
+My existing README contains my introduction, technology stack, four featured projects, setup instructions, GitHub statistics, coding philosophy, and contact links.
 
-<br />
+IMPORTANT: Enhance my existing code rather than replacing it with a generic template. Preserve my actual projects, repository URLs, contact information, and accurate technical details.
 
-## About me
+1. CREATIVE DESIGN DIRECTION
 
-I'm an **MCA student and aspiring software developer** who likes taking an idea from a blank folder to a running system: a Django or Flask backend, a clean frontend, and a database that holds up under the features. My public projects include a Dockerised fuel-booking platform, a graph-database demo for financial-network analysis, and two Django + MySQL web apps.
+Create a futuristic, interactive-looking developer profile inspired by:
 
-I'm currently getting stronger in **data structures and algorithms**, and exploring **Java with Spring Boot** and **AWS** as the next step beyond my Python and JavaScript work.
+* Cyberpunk developer workstations.
+* Premium software engineering portfolios.
+* Hacker-style terminal interfaces.
+* Sci-fi HUD interfaces.
+* Neon-lit programming environments.
+* Minimalist, high-end developer dashboards.
 
-<br />
+Color palette:
 
-## Tech stack
+* Background: deep midnight black (#050816).
+* Primary accent: electric cyan (#22D3EE).
+* Secondary accent: neon purple (#A78BFA).
+* Supporting accent: emerald green (#34D399).
+* Text: soft white (#E6EDF3).
 
-**Languages**<br />
-<img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=22d3ee" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=22d3ee" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=22d3ee" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=22d3ee" alt="CSS3" />
+The design should look sophisticated, not cluttered.
 
-**Frontend**<br />
-<img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=22d3ee" alt="React" />
-<img src="https://img.shields.io/badge/Vite-161b22?style=flat-square&logo=vite&logoColor=a78bfa" alt="Vite" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=22d3ee" alt="Tailwind CSS" />
+2. CREATE A UNIQUE ANIMATED SVG HEADER
 
-**Backend**<br />
-<img src="https://img.shields.io/badge/Django-161b22?style=flat-square&logo=django&logoColor=22d3ee" alt="Django" />
-<img src="https://img.shields.io/badge/Flask-161b22?style=flat-square&logo=flask&logoColor=22d3ee" alt="Flask" />
-<img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=22d3ee" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=22d3ee" alt="Node.js" />
+Replace or enhance my existing banner.svg with a custom SVG banner featuring:
 
-**Databases**<br />
-<img src="https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=22d3ee" alt="MySQL" />
-<img src="https://img.shields.io/badge/Neo4j-161b22?style=flat-square&logo=neo4j&logoColor=a78bfa" alt="Neo4j" />
+* My name, MEGHARAJ PANCHMAAL, as the main visual element.
+* A custom developer identity icon combining </> with a Python-inspired symbol.
+* Animated neon text and subtle glowing effects.
+* A terminal displaying commands such as:
+    $ python build.py
+    $ git commit -m "keep building"
+    $ ./deploy.sh
+* A subtle animated digital grid.
+* Moving particles or small floating binary characters.
+* A futuristic city skyline or developer workstation illustration.
+* Animated circuit paths connecting programming symbols.
+* My signature tagline: “Tinkering, Coding, Debugging & Ubiquity.”
+* A typing-style animation representing my development journey.
 
-**Cloud and DevOps**<br />
-<img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=22d3ee" alt="Docker" />
-<img src="https://img.shields.io/badge/Nginx-161b22?style=flat-square&logo=nginx&logoColor=22d3ee" alt="Nginx" />
-<img src="https://img.shields.io/badge/Jenkins-161b22?style=flat-square&logo=jenkins&logoColor=a78bfa" alt="Jenkins" />
+Use elegant motion with restrained animation rather than excessive flashing.
 
-**Developer tools**<br />
-<img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=22d3ee" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=22d3ee" alt="GitHub" />
-<img src="https://img.shields.io/badge/Postman-161b22?style=flat-square&logo=postman&logoColor=a78bfa" alt="Postman" />
-<img src="https://img.shields.io/badge/VS%20Code-161b22?style=flat-square&logoColor=22d3ee" alt="VS Code" />
+The SVG must be valid, lightweight, and self-contained wherever practical.
 
-**Learning next**<br />
-<img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=a78bfa" alt="Java" />
-<img src="https://img.shields.io/badge/Spring%20Boot-161b22?style=flat-square&logo=springboot&logoColor=a78bfa" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/AWS-161b22?style=flat-square&logo=amazonaws&logoColor=a78bfa" alt="AWS" />
+Provide the actual banner.svg source code, not merely an image or an explanation.
 
-<br />
+3. MAKE MY NAME THE SIGNATURE VISUAL ELEMENT
 
-## Featured projects
+Design a distinctive identity around my name.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/megharajpanchmaal19-glitch/e-fuel">E-Fuel</a></h3>
-      <b>Online fuel booking system</b><br /><br />
-      Customers browse fuel types and stations and place delivery or pickup orders. Admins manage users, fuels, stations and bookings.<br /><br />
-      <b>Stack:</b> React, Vite, Tailwind CSS, Flask, SQLAlchemy, MySQL, Nginx, Docker Compose, Jenkins<br /><br />
-      <b>Highlights:</b> JWT-based auth, role-based admin area, Postman collection, Jenkins pipeline
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/megharajpanchmaal19-glitch/trace-room-preview">Trace Room</a></h3>
-      <b>Financial-network analysis demo</b><br /><br />
-      A browser UI for exploring cases, entities, transactions and evidence as a graph, using synthetic data only.<br /><br />
-      <b>Stack:</b> JavaScript, FastAPI, Neo4j<br /><br />
-      <b>Highlights:</b> saves to a local Neo4j database through an API and falls back to a local preview mode when the API is offline
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/megharajpanchmaal19-glitch/codealpha_smartbot">SmartBot</a></h3>
-      <b>Rule-based chatbot web app</b><br /><br />
-      A Django chatbot with keyword and intent matching, per-visitor conversation history stored in MySQL, and a responsive chat UI.<br /><br />
-      <b>Stack:</b> Python, Django, MySQL, HTML, CSS, JavaScript<br /><br />
-      <b>Highlights:</b> session-isolated history, REST endpoints, server-side validation, CSRF protection, unit tests
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/megharajpanchmaal19-glitch/codealpha_stockportfolio">Stock Portfolio Tracker</a></h3>
-      <b>Simulated portfolio manager</b><br /><br />
-      Add, edit and remove holdings and see total investment, calculated on the server. Uses fixed sample prices, not live market data.<br /><br />
-      <b>Stack:</b> Python, Django, MySQL, HTML, CSS, JavaScript, GitHub Actions<br /><br />
-      <b>Highlights:</b> JSON API, CSV export, backend input validation, automated tests
-    </td>
-  </tr>
-</table>
+Requirements:
 
-<details>
-<summary><b>How to run each project</b></summary>
+* Large, bold typography.
+* Cyan-to-purple gradient effect where supported.
+* A custom developer emblem.
+* A subtle terminal cursor effect.
+* A short animated subtitle.
+* Consistent branding throughout the README.
 
-<br />
+Create a recognizable visual identity that feels like a developer’s personal digital signature.
 
-**E-Fuel** (Docker)
+4. REDESIGN THE TECHNOLOGY STACK
 
-```bash
-git clone https://github.com/megharajpanchmaal19-glitch/e-fuel.git
-cd e-fuel
-cp .env.example .env
-docker compose up --build -d
-# open http://localhost
-```
+Transform the existing technology badges into visually organized groups.
 
-**Trace Room** (Neo4j Desktop + Python + Node)
+Categories:
 
-```bash
-# 1. Start a local DBMS in Neo4j Desktop
-# 2. API
-cd backend && python3 -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-uvicorn main:app --reload --port 8000
-# 3. Frontend (project root, second terminal)
-npm start
-```
+* Programming Languages.
+* Frontend Development.
+* Backend Development.
+* Databases.
+* Cloud & DevOps.
+* Developer Tools.
+* Currently Learning.
 
-Set the Neo4j and admin environment variables first. The repository README lists them.
+Use recognizable technology icons for Python, JavaScript, HTML5, CSS3, React, Django, Flask, FastAPI, Node.js, MySQL, Neo4j, Docker, Nginx, Jenkins, Git, GitHub, Postman, Java, Spring Boot, and AWS.
 
-**SmartBot** (Django + MySQL via XAMPP)
+Only include technologies already present in my existing README or confirmed by me.
 
-```bash
-git clone https://github.com/megharajpanchmaal19-glitch/codealpha_smartbot.git
-cd codealpha_smartbot
-python -m venv venv && source venv/bin/activate
-pip install -r requirements.txt
-# start MySQL in XAMPP and create a database named smartbot_db
-python manage.py migrate
-python manage.py runserver
-```
+Make the skills section look like a futuristic control panel without relying on unsupported CSS or JavaScript.
 
-**Stock Portfolio Tracker** (Django + MySQL via XAMPP)
+5. CREATE PREMIUM PROJECT SHOWCASES
 
-```bash
-git clone https://github.com/megharajpanchmaal19-glitch/codealpha_stockportfolio.git
-cd codealpha_stockportfolio
-python -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-# start MySQL in XAMPP and create a database named stockportfolio
-cd config
-python manage.py migrate
-python manage.py runserver
-```
+Preserve all four existing projects:
 
-</details>
+1. E-Fuel — Online fuel booking system.
+2. Trace Room — Financial-network analysis demo.
+3. SmartBot — Rule-based chatbot web app.
+4. Stock Portfolio Tracker — Simulated portfolio manager.
 
-<br />
+Redesign the project section to look like a software developer portfolio dashboard.
 
-## GitHub stats
+For each project:
 
-<div align="center">
+* Add a unique project icon.
+* Use a consistent visual hierarchy.
+* Include the project name and short description.
+* Display the actual technology stack.
+* Highlight genuine implemented features.
+* Include a repository link.
+* Retain the existing setup instructions.
+* Add a project-preview image only if an authentic screenshot or an appropriately generated illustration is available.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=megharajpanchmaal19-glitch&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megharajpanchmaal19-glitch&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Most used languages" />
+Use clean HTML tables and GitHub-supported Markdown to create a polished layout.
 
-<img src="https://streak-stats.demolab.com?user=megharajpanchmaal19-glitch&hide_border=true&background=0d1117&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Contribution streak" />
+Do not invent screenshots, deployment URLs, project features, or functionality.
 
-</div>
+If useful, provide separate prompts for generating four matching project thumbnail illustrations.
 
-<br />
+6. ADD CREATIVE DEVELOPER ANIMATIONS
 
-## Coding philosophy
+Use animations strategically throughout the profile.
 
-```js
-while (curious) { learn(); build(); debug(); repeat(); }
-```
+Possible effects:
 
-<br />
+* Typing animation.
+* Terminal command simulation.
+* Blinking cursor.
+* Subtle animated SVG gradients.
+* Moving circuit lines.
+* Floating code symbols.
+* A minimal animated Python-inspired emblem.
+* A dynamic-looking progress indicator for the learning section.
 
-## Connect with me
+Animations must be lightweight, readable, and compatible with GitHub’s rendering environment.
 
-<a href="https://www.linkedin.com/in/megharaj-panchmaal"><img src="https://img.shields.io/badge/LinkedIn-megharaj--panchmaal-0d1117?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" /></a>
-<a href="mailto:megharajpanchmaal19@gmail.com"><img src="https://img.shields.io/badge/Gmail-megharajpanchmaal19@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=a78bfa" alt="Gmail" /></a>
-<a href="https://github.com/megharajpanchmaal19-glitch"><img src="https://img.shields.io/badge/GitHub-megharajpanchmaal19--glitch-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub" /></a>
+Do not use JavaScript, embedded scripts, or custom CSS that GitHub sanitizes or does not support.
+
+Use SVG animation only when supported, and provide a static fallback for clients that do not render animation.
+
+Never sacrifice readability or accessibility for animation.
+
+7. IMPROVE THE GITHUB STATISTICS SECTION
+
+Retain the existing GitHub statistics cards where they work.
+
+Use:
+
+* GitHub contribution statistics.
+* Most-used programming languages.
+* Contribution streak.
+* Contribution activity visualization, if available.
+
+Apply my cyan, purple, and dark theme consistently.
+
+Ensure:
+
+* Correct usernames.
+* Valid image URLs.
+* Appropriate alt text.
+* Reasonable image dimensions.
+* Graceful behavior if a third-party statistics service is unavailable.
+
+Do not fabricate statistics, contribution counts, or achievements.
+
+Do not display fake percentages or unsupported performance metrics.
+
+8. MAKE THE CODING PHILOSOPHY MEMORABLE
+
+Create a distinctive terminal-style section using this concept:
+
+while (curious) {
+learn();
+build();
+debug();
+repeat();
+}
+
+Style it like a command-line interface with a prompt symbol, syntax-inspired colors, and a blinking cursor if practical.
+
+Explore complementary taglines such as:
+
+* Importing Curiosity, Executing Ideas.
+* Bits, Bytes, Bugs & Breakthroughs.
+* Tinkering with Logic, Building with Purpose.
+* Code the Idea. Debug the Impossible.
+* Think in Algorithms. Build with Curiosity.
+
+Choose one primary tagline that matches the rest of the design.
+
+9. ADD A UNIQUE CONNECT-WITH-ME SECTION
+
+Redesign the LinkedIn, email, and GitHub links using consistent iconography.
+
+Use these existing details:
+
+* GitHub: https://github.com/megharajpanchmaal19-glitch
+* LinkedIn: https://www.linkedin.com/in/megharaj-panchmaal
+* Email: megharajpanchmaal19@gmail.com
+
+Use polished badges with matching accent colors.
+
+Keep the links accessible and easy to click.
+
+10. ADVANCED VISUAL IDEAS
+
+Explore creative enhancements that can make the profile memorable:
+
+* A custom SVG logo built around my initials, MP.
+* A terminal-inspired section divider.
+* Animated binary data flowing through circuit paths.
+* A small developer status panel.
+* A minimal system-monitor-inspired layout.
+* A consistent icon system for each project.
+* A custom SVG footer with a short coding quote.
+
+Do not add meaningless decorative elements merely to fill space.
+
+Avoid fake online status, fake metrics, and claims about technologies I have not used.
+
+11. TECHNICAL REQUIREMENTS
+
+My profile is displayed on GitHub, so all solutions must respect GitHub’s limitations.
+
+Use:
+
+* Markdown.
+* GitHub-supported HTML.
+* SVG assets.
+* Reliable external badge and icon services.
+* Existing GitHub statistics services where appropriate.
+
+Avoid:
+
+* JavaScript-based interactions.
+* Unsupported CSS.
+* Broken image references.
+* Excessive GIFs.
+* Heavy external assets.
+* Unnecessary duplicated information.
+* Overly wide layouts that break on mobile.
+* Unverified repository links.
+
+Check that every referenced asset has a real file or valid URL.
+
+If an asset is local, explain exactly where to save it in the repository.
+
+For example:
+README.md
+banner.svg
+assets/mp-logo.svg
+assets/project-e-fuel.svg
+assets/project-trace-room.svg
+assets/project-smartbot.svg
+assets/project-stock-portfolio.svg
+
+Only create additional assets when they meaningfully improve the design.
+
+12. FINAL DELIVERABLES
+
+Produce the actual implementation.
+
+Deliver:
+
+1. A complete enhanced README.md.
+2. A fully implemented banner.svg.
+3. A custom MP logo SVG.
+4. Any additional SVG assets required by the README.
+5. A consistent design system for colors, icons, and visual hierarchy.
+6. Instructions explaining exactly where each file belongs.
+7. Instructions for updating my GitHub profile repository.
+8. A verification checklist for image URLs, links, animations, and mobile readability.
+
+Provide the complete code for every created file in separate, clearly labelled code blocks.
+
+Do not return pseudocode, partial examples, or instructions that leave the main implementation unfinished.
+
+If you cannot inspect my live repositories, use the README and repository details I provide rather than inventing information.
+
+FINAL CREATIVE GOAL
+
+My GitHub profile should feel like a fusion of:
+
+A futuristic coding workstation + an animated software portfolio + a distinctive developer identity.
+
+When someone opens my profile, the first impression should be:
+
+“This developer has a unique visual identity, cares about software craftsmanship, and knows how to present projects professionally.”
+
+Make it visually striking, technically correct, lightweight, accessible, and genuinely different from ordinary GitHub profiles.
+
+Here is my complete existing README.md code:
+
+[PASTE MY EXISTING README CODE HERE]
